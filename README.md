@@ -2,7 +2,7 @@
 
 
 1. Zomato Data Analysis Project
-Project Description: The Zomato Data Analysis project aims to analyze restaurant trends, customer preferences, and pricing patterns across different locations. Using Python, this project provides insights into how factors like cost, cuisine, and ratings impact customer choices. It involves:
+Description: The Zomato Data Analysis project aims to analyze restaurant trends, customer preferences, and pricing patterns across different locations. Using Python, this project provides insights into how factors like cost, cuisine, and ratings impact customer choices. It involves:
 
 Data Cleaning: Address missing values, remove duplicates, and standardize data formats.
 Exploratory Data Analysis (EDA): Visualizing the distribution of restaurant types, average cost per meal, and restaurant ratings using libraries like Pandas, Matplotlib, and Seaborn.
@@ -18,7 +18,7 @@ Sentiment trends in customer reviews.
 
 
 
-2. Hotel Booking Data Analysis Project
+2. Hotel Booking Data Analysis
 Project Description: The Hotel Booking Data Analysis project involves analyzing a hotel booking dataset to identify booking patterns, cancellation trends, and factors affecting hotel performance. This project helps hotel management optimize operations, reduce cancellations, and improve customer experience. The project includes:
 
 Data Preprocessing: Cleaning the data to handle missing values, formatting date fields, and categorizing customer types (e.g., families, couples, business travelers).
